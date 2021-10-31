@@ -1,0 +1,950 @@
+[
+    {
+        "type": "header",
+        "version": "5.0.2",
+        "comment": "Export to JSON plugin for PHPMyAdmin"
+    },
+    {
+        "type": "database",
+        "name": "scrapper"
+    },
+    {
+        "type": "table",
+        "name": "moroccannames",
+        "database": "scrapper",
+        "data": [
+            {
+                "id": "1",
+                "name": "Abad"
+            },
+            {
+                "id": "4",
+                "name": "Abbas"
+            },
+            {
+                "id": "7",
+                "name": "Abbou"
+            },
+            {
+                "id": "10",
+                "name": "Abdelaalim"
+            },
+            {
+                "id": "13",
+                "name": "Abdelaati"
+            },
+            {
+                "id": "16",
+                "name": "Abdeladim"
+            },
+            {
+                "id": "19",
+                "name": "Abdelali"
+            },
+            {
+                "id": "22",
+                "name": "Abdelaziz"
+            },
+            {
+                "id": "25",
+                "name": "Abdelbadie"
+            },
+            {
+                "id": "28",
+                "name": "Abdelbaki"
+            },
+            {
+                "id": "31",
+                "name": "Abdelbasset"
+            },
+            {
+                "id": "34",
+                "name": "Abdelfattah"
+            },
+            {
+                "id": "37",
+                "name": "Abdelghafour"
+            },
+            {
+                "id": "40",
+                "name": "Abdelghani"
+            },
+            {
+                "id": "43",
+                "name": "Abdelhadi"
+            },
+            {
+                "id": "46",
+                "name": "Abdelhafid"
+            },
+            {
+                "id": "49",
+                "name": "Abdelhak"
+            },
+            {
+                "id": "52",
+                "name": "Abdelhakim"
+            },
+            {
+                "id": "55",
+                "name": "Abdelhalim"
+            },
+            {
+                "id": "58",
+                "name": "Abdelhamid"
+            },
+            {
+                "id": "61",
+                "name": "Abdelhaq"
+            },
+            {
+                "id": "64",
+                "name": "Abdelilah"
+            },
+            {
+                "id": "67",
+                "name": "Abdeljabbar"
+            },
+            {
+                "id": "70",
+                "name": "Abdeljalil"
+            },
+            {
+                "id": "73",
+                "name": "Abdeljaouad"
+            },
+            {
+                "id": "76",
+                "name": "Abdelkabir"
+            },
+            {
+                "id": "79",
+                "name": "Abdelkader"
+            },
+            {
+                "id": "82",
+                "name": "Abdelkamel"
+            },
+            {
+                "id": "85",
+                "name": "Abdelkarim"
+            },
+            {
+                "id": "88",
+                "name": "Abdelkhalek"
+            },
+            {
+                "id": "91",
+                "name": "Abdelkouddous"
+            },
+            {
+                "id": "94",
+                "name": "Abdellah"
+            },
+            {
+                "id": "97",
+                "name": "Abdellatif"
+            },
+            {
+                "id": "100",
+                "name": "Abdelmalek"
+            },
+            {
+                "id": "103",
+                "name": "Abdelmoghit"
+            },
+            {
+                "id": "106",
+                "name": "Abdelmonaim"
+            },
+            {
+                "id": "109",
+                "name": "Abdelmouaiz"
+            },
+            {
+                "id": "112",
+                "name": "Abdelmoughit"
+            },
+            {
+                "id": "115",
+                "name": "Abdelmouhaimin"
+            },
+            {
+                "id": "118",
+                "name": "Abdelmoujib"
+            },
+            {
+                "id": "5",
+                "name": "Abdelmoula"
+            },
+            {
+                "id": "121",
+                "name": "Abdelmoumen"
+            },
+            {
+                "id": "123",
+                "name": "Abdelmouttalib"
+            },
+            {
+                "id": "125",
+                "name": "Abdelouadoud"
+            },
+            {
+                "id": "127",
+                "name": "Abdelouafi"
+            },
+            {
+                "id": "129",
+                "name": "Abdelouahab"
+            },
+            {
+                "id": "131",
+                "name": "Abdelouahid"
+            },
+            {
+                "id": "133",
+                "name": "Abdelouali"
+            },
+            {
+                "id": "135",
+                "name": "Abdelouarete"
+            },
+            {
+                "id": "137",
+                "name": "Abdenbi"
+            },
+            {
+                "id": "2",
+                "name": "Abdennasser"
+            },
+            {
+                "id": "11",
+                "name": "Abdennour"
+            },
+            {
+                "id": "14",
+                "name": "Abderaouf"
+            },
+            {
+                "id": "17",
+                "name": "Abderrafie"
+            },
+            {
+                "id": "20",
+                "name": "Abderrazak"
+            },
+            {
+                "id": "23",
+                "name": "Abdessabour"
+            },
+            {
+                "id": "26",
+                "name": "Abdessadek"
+            },
+            {
+                "id": "29",
+                "name": "Abdessafi"
+            },
+            {
+                "id": "32",
+                "name": "Abdessalam"
+            },
+            {
+                "id": "35",
+                "name": "Abdessamad"
+            },
+            {
+                "id": "38",
+                "name": "Abdessamie"
+            },
+            {
+                "id": "41",
+                "name": "Abdessatar"
+            },
+            {
+                "id": "44",
+                "name": "Abdou"
+            },
+            {
+                "id": "47",
+                "name": "Abdourabih"
+            },
+            {
+                "id": "50",
+                "name": "Abdrabbou"
+            },
+            {
+                "id": "53",
+                "name": "Abed"
+            },
+            {
+                "id": "56",
+                "name": "Abid"
+            },
+            {
+                "id": "59",
+                "name": "Aboubaki"
+            },
+            {
+                "id": "62",
+                "name": "Aboubakr"
+            },
+            {
+                "id": "65",
+                "name": "Aboud"
+            },
+            {
+                "id": "68",
+                "name": "Achour"
+            },
+            {
+                "id": "71",
+                "name": "Achraf"
+            },
+            {
+                "id": "74",
+                "name": "Adam"
+            },
+            {
+                "id": "77",
+                "name": "Addi"
+            },
+            {
+                "id": "80",
+                "name": "Adel"
+            },
+            {
+                "id": "83",
+                "name": "Adham"
+            },
+            {
+                "id": "86",
+                "name": "Adib"
+            },
+            {
+                "id": "89",
+                "name": "Adil"
+            },
+            {
+                "id": "92",
+                "name": "Adnane"
+            },
+            {
+                "id": "95",
+                "name": "Afif"
+            },
+            {
+                "id": "98",
+                "name": "Ahmed"
+            },
+            {
+                "id": "101",
+                "name": "Aissa"
+            },
+            {
+                "id": "104",
+                "name": "Akram"
+            },
+            {
+                "id": "107",
+                "name": "Alaeeddine"
+            },
+            {
+                "id": "110",
+                "name": "Alami"
+            },
+            {
+                "id": "113",
+                "name": "Ali"
+            },
+            {
+                "id": "116",
+                "name": "Aliane"
+            },
+            {
+                "id": "119",
+                "name": "Alif"
+            },
+            {
+                "id": "122",
+                "name": "Alilou"
+            },
+            {
+                "id": "8",
+                "name": "Allal"
+            },
+            {
+                "id": "124",
+                "name": "Allali"
+            },
+            {
+                "id": "126",
+                "name": "Allou"
+            },
+            {
+                "id": "128",
+                "name": "Allouch"
+            },
+            {
+                "id": "130",
+                "name": "Amar"
+            },
+            {
+                "id": "132",
+                "name": "Amara"
+            },
+            {
+                "id": "134",
+                "name": "Amer"
+            },
+            {
+                "id": "136",
+                "name": "Ameur"
+            },
+            {
+                "id": "138",
+                "name": "Ameziane"
+            },
+            {
+                "id": "3",
+                "name": "Amghar"
+            },
+            {
+                "id": "6",
+                "name": "Amimar"
+            },
+            {
+                "id": "9",
+                "name": "Amine"
+            },
+            {
+                "id": "12",
+                "name": "Amjad"
+            },
+            {
+                "id": "15",
+                "name": "Ammar"
+            },
+            {
+                "id": "18",
+                "name": "Amrane"
+            },
+            {
+                "id": "21",
+                "name": "Anis"
+            },
+            {
+                "id": "24",
+                "name": "Anouar"
+            },
+            {
+                "id": "27",
+                "name": "Antar"
+            },
+            {
+                "id": "30",
+                "name": "Antara"
+            },
+            {
+                "id": "33",
+                "name": "Aouab"
+            },
+            {
+                "id": "36",
+                "name": "Aouiss"
+            },
+            {
+                "id": "39",
+                "name": "Arbi"
+            },
+            {
+                "id": "42",
+                "name": "Archane"
+            },
+            {
+                "id": "45",
+                "name": "Aref"
+            },
+            {
+                "id": "48",
+                "name": "Arif"
+            },
+            {
+                "id": "51",
+                "name": "Arij"
+            },
+            {
+                "id": "54",
+                "name": "Arkam"
+            },
+            {
+                "id": "57",
+                "name": "Arsalane"
+            },
+            {
+                "id": "60",
+                "name": "Assad"
+            },
+            {
+                "id": "63",
+                "name": "Assil"
+            },
+            {
+                "id": "66",
+                "name": "Assou"
+            },
+            {
+                "id": "69",
+                "name": "Atef"
+            },
+            {
+                "id": "72",
+                "name": "Atf"
+            },
+            {
+                "id": "75",
+                "name": "Atik"
+            },
+            {
+                "id": "78",
+                "name": "Atiq"
+            },
+            {
+                "id": "81",
+                "name": "Atouf"
+            },
+            {
+                "id": "84",
+                "name": "Ayache"
+            },
+            {
+                "id": "87",
+                "name": "Ayachi"
+            },
+            {
+                "id": "90",
+                "name": "Ayad"
+            },
+            {
+                "id": "93",
+                "name": "Ayich"
+            },
+            {
+                "id": "96",
+                "name": "Ayman"
+            },
+            {
+                "id": "99",
+                "name": "Ayoub"
+            },
+            {
+                "id": "102",
+                "name": "Azam"
+            },
+            {
+                "id": "105",
+                "name": "Azhar"
+            },
+            {
+                "id": "108",
+                "name": "Azmi"
+            },
+            {
+                "id": "111",
+                "name": "Azzam"
+            },
+            {
+                "id": "114",
+                "name": "Azzeddine"
+            },
+            {
+                "id": "117",
+                "name": "Azzelarab"
+            },
+            {
+                "id": "120",
+                "name": "Azzouz"
+            },
+            {
+                "id": "139",
+                "name": "Baaka"
+            },
+            {
+                "id": "141",
+                "name": "Baaqa"
+            },
+            {
+                "id": "142",
+                "name": "Baba"
+            },
+            {
+                "id": "140",
+                "name": "Bachar"
+            },
+            {
+                "id": "150",
+                "name": "Bachir"
+            },
+            {
+                "id": "143",
+                "name": "Badr"
+            },
+            {
+                "id": "145",
+                "name": "Badr Eddine"
+            },
+            {
+                "id": "144",
+                "name": "Badr Ezzamane"
+            },
+            {
+                "id": "146",
+                "name": "Badri"
+            },
+            {
+                "id": "147",
+                "name": "Bahae"
+            },
+            {
+                "id": "148",
+                "name": "Bahi"
+            },
+            {
+                "id": "149",
+                "name": "Bahssin"
+            },
+            {
+                "id": "151",
+                "name": "Bakkar"
+            },
+            {
+                "id": "152",
+                "name": "Bakr"
+            },
+            {
+                "id": "153",
+                "name": "Bamou"
+            },
+            {
+                "id": "154",
+                "name": "Barouk"
+            },
+            {
+                "id": "157",
+                "name": "Bassam"
+            },
+            {
+                "id": "158",
+                "name": "Bassou"
+            },
+            {
+                "id": "159",
+                "name": "Belaid"
+            },
+            {
+                "id": "160",
+                "name": "Belkas"
+            },
+            {
+                "id": "155",
+                "name": "Belkassem"
+            },
+            {
+                "id": "161",
+                "name": "Benaissa"
+            },
+            {
+                "id": "162",
+                "name": "Benasser"
+            },
+            {
+                "id": "163",
+                "name": "Bendaoud"
+            },
+            {
+                "id": "156",
+                "name": "Benissa"
+            },
+            {
+                "id": "164",
+                "name": "Bennacer"
+            },
+            {
+                "id": "165",
+                "name": "Benyaakoub"
+            },
+            {
+                "id": "166",
+                "name": "Bichara"
+            },
+            {
+                "id": "167",
+                "name": "Bichr"
+            },
+            {
+                "id": "168",
+                "name": "Bikr"
+            },
+            {
+                "id": "169",
+                "name": "Bilal"
+            },
+            {
+                "id": "170",
+                "name": "Bouamama"
+            },
+            {
+                "id": "171",
+                "name": "Bouamar"
+            },
+            {
+                "id": "172",
+                "name": "Bouamrou"
+            },
+            {
+                "id": "173",
+                "name": "Bouazza"
+            },
+            {
+                "id": "174",
+                "name": "Bouchaib"
+            },
+            {
+                "id": "176",
+                "name": "Bouchta"
+            },
+            {
+                "id": "175",
+                "name": "Bouekri"
+            },
+            {
+                "id": "177",
+                "name": "Bouhout"
+            },
+            {
+                "id": "178",
+                "name": "Boujemaa"
+            },
+            {
+                "id": "179",
+                "name": "Bourhim"
+            },
+            {
+                "id": "180",
+                "name": "Bourhime"
+            },
+            {
+                "id": "181",
+                "name": "Bousedra"
+            },
+            {
+                "id": "182",
+                "name": "Bouselham"
+            },
+            {
+                "id": "183",
+                "name": "Bouziane"
+            },
+            {
+                "id": "184",
+                "name": "Brahim"
+            },
+            {
+                "id": "185",
+                "name": "Brik"
+            },
+            {
+                "id": "186",
+                "name": "Chaabane"
+            },
+            {
+                "id": "187",
+                "name": "Chaddad"
+            },
+            {
+                "id": "188",
+                "name": "Chadi"
+            },
+            {
+                "id": "189",
+                "name": "Chadli"
+            },
+            {
+                "id": "190",
+                "name": "Chafai"
+            },
+            {
+                "id": "191",
+                "name": "Chafik"
+            },
+            {
+                "id": "192",
+                "name": "Chafiq"
+            },
+            {
+                "id": "193",
+                "name": "Chahed"
+            },
+            {
+                "id": "194",
+                "name": "Chahid"
+            },
+            {
+                "id": "195",
+                "name": "Chaib"
+            },
+            {
+                "id": "196",
+                "name": "Chakib"
+            },
+            {
+                "id": "197",
+                "name": "Chakir"
+            },
+            {
+                "id": "198",
+                "name": "Chaouki"
+            },
+            {
+                "id": "199",
+                "name": "Charaf"
+            },
+            {
+                "id": "200",
+                "name": "Charaf Eddine"
+            },
+            {
+                "id": "201",
+                "name": "Charki"
+            },
+            {
+                "id": "202",
+                "name": "Chedad"
+            },
+            {
+                "id": "203",
+                "name": "Cherqi"
+            },
+            {
+                "id": "204",
+                "name": "Chihab"
+            },
+            {
+                "id": "205",
+                "name": "Choaib"
+            },
+            {
+                "id": "206",
+                "name": "Chouaib"
+            },
+            {
+                "id": "207",
+                "name": "Choukri"
+            },
+            {
+                "id": "210",
+                "name": "Dah Mane"
+            },
+            {
+                "id": "208",
+                "name": "Dahane"
+            },
+            {
+                "id": "209",
+                "name": "Dahbi"
+            },
+            {
+                "id": "211",
+                "name": "Daidai"
+            },
+            {
+                "id": "212",
+                "name": "Dalil"
+            },
+            {
+                "id": "213",
+                "name": "Daoud"
+            },
+            {
+                "id": "214",
+                "name": "Daoui"
+            },
+            {
+                "id": "215",
+                "name": "Darid"
+            },
+            {
+                "id": "216",
+                "name": "Darous"
+            },
+            {
+                "id": "217",
+                "name": "Diab"
+            },
+            {
+                "id": "218",
+                "name": "Diae"
+            },
+            {
+                "id": "219",
+                "name": "Diae Eddine"
+            },
+            {
+                "id": "220",
+                "name": "Didi"
+            },
+            {
+                "id": "221",
+                "name": "Douraid"
+            },
+            {
+                "id": "222",
+                "name": "Driss"
+            },
+            {
+                "id": "232",
+                "name": "Ebdelkahar"
+            },
+            {
+                "id": "233",
+                "name": "Ebdelkayyaoum"
+            },
+            {
+                "id": "223",
+                "name": "Eddaoui"
+            },
+            {
+                "id": "224",
+                "name": "Elaid"
+            },
+            {
+                "id": "225",
+                "name": "Elarabi"
+            },
+            {
+                "id": "226",
+                "name": "Elarbi"
+            },
+            {
+                "id": "227",
+                "name": "Elaydi"
+            },
+            {
+                "id": "228",
+                "name": "Elbachir"
+            },
+            {
+                "id": "229",
+                "name": "Elbouchtaoui"
+            },
+            {
+                "id": "230",
+                "name": "Elchafii"
+            },
+            {
+                "id": "231",
+                "name": "Elchahid"
+            }
+        ]
+    }
+]
